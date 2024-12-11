@@ -1,0 +1,7 @@
+# List dependencies to install.
+
+flask
+numpy
+pandas
+tensorflow
+torch
